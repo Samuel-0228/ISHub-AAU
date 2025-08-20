@@ -1,0 +1,15 @@
+{
+    "name": "task_manager",
+    "version": "1.0.0",
+    "description": "Simple Task Management REST API",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "uuid": "^9.0.1"
+    },
+    "author": "",
+    "license": "ISC"
+}
